@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Sort {
 
     static void sortArray(){
-        System.out.println("sort the elements in an array :");
+       System.out.println("sort the elements in an array :");
         int arr[] ={6,5,7,4,3,2,1};
         Arrays.sort(arr);
         int temp;
